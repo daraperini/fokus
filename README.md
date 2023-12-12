@@ -1,6 +1,6 @@
 # Fokus
 
-Hi there! In this project created during Alura's class *JavaScript: manipulating DOM's elements* I developed a timer based on the Pomodoro Technique. It helps on the develpment of tasks through programming a 25 minutes timer of focus for each task you want to accomplish followed by a short or long period of rest. HTML and CSS codes and a Figma design were available at the start of the class and I developed the JavaScript code from this material.
+Hi there! In this project created during Alura's class *JavaScript: manipulating DOM's elements* I developed a timer based on the Pomodoro Technique. It helps on the develpment of tasks through programming a 25 minutes timer of focus for each task you want to accomplish followed by a short or long period of rest. HTML and CSS codes and a Figma design were available at the start of the class and I developed the JavaScript code having this material as basis.
 
 To see the final result, click [here](https://fokus-one.vercel.app/).
 
